@@ -9,7 +9,7 @@ IMPORTANT:
 Please notice that there is an error in Laybuy website, please follow the steps to find it:
 1. Open https://www.laybuy.com/nz/
 2. Go to "Developer Tools"
-3. Open the tap "Console"
+3. Open the tab "Console"
 4. The following error is showing:
     Uncaught Error: Appboy must be initialized before calling methods.
     at e (appboy.min.js:228:244)
@@ -23,4 +23,4 @@ Please notice that there is an error in Laybuy website, please follow the steps 
     at o.emit (analytics.min.js:20:18769)
     at n.ready (analytics.min.js:1:65448)
 
-I created an exception to be possible proceed with the testes.
+I created an exception to be possible proceed with the tests.
