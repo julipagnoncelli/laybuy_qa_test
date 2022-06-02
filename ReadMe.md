@@ -23,4 +23,4 @@ Please notice that there is an error in Laybuy website, please follow the steps 
     at o.emit (analytics.min.js:20:18769)
     at n.ready (analytics.min.js:1:65448)
 
-I created an exception to be possible proceed with the tests.
+I had to ignore this exception to be possible proceed with the tests.
